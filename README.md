@@ -1,2 +1,2 @@
-# AWS-Associate-SAA-C03_2026
+# AWS-SAA-C03_2026
 Updated...
