@@ -21,11 +21,11 @@ This comprehensive 30-day training guide prepares you for the **AWS Solutions Ar
 
 ## 📋 Course Curriculum
 
-### **Phase 1: Foundation (Days 1-6)**
+### **Phase 1: Foundation (Days 1-10)**
 
-### **Phase 2: Core Services (Days 7-13)**
+### **Phase 2: Core Services (Days 11-20)**
 
-### **Phase 3: Advanced Topics (Days 14-20)**
+### **Phase 3: Advanced Topics (Days 21-30)**
 
 
 ---
